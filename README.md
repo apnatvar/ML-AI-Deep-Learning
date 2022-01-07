@@ -20,8 +20,7 @@ I downloaded the latest verisons of everything listed, surprisingly it all worke
 The download links for each are available on the tensorflow website. The link to zlib will be in the 
 * I installed Visual Studio 2021, when tensorflow recommend to install only the 2019 version. I am still able to run everything so I guess it was not needed after all
 * This is the website whose instuctions worked for me - https://towardsdatascience.com/installing-tensorflow-with-cuda-cudnn-and-gpu-support-on-windows-10-60693e46e781
-Now this did not talk about the zlib, which I did not need until I started working with ResNet50. So i recommend you install it earlier on to avoid hassles later
-Whenever I had ran the code form there it said a certain file was missing which is present in the compressed zlib folder.
+Now this did not talk about the zlib, which was needed when I started working with ResNet50. So I recommend you install it earlier on to avoid hassles later.
 8. Now Cuda will need to be installed like any normal application through the installation wizard.
 9. cudNN and zlib will be zipped files containing various types of files. The most important ones are .dll files. 
 10. Now you need to add the path variables. Unzip and add the cudNN and zlib files to the path variable (from the environmental variables option).
