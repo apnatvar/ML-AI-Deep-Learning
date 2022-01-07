@@ -12,10 +12,11 @@ Every software/module etc listed below was the latest available update directly 
 1. Asus ROG G14 - Windows 10 Home - NVIDIA GTX 3060 Laptop-GPU - 16gb RAM
 2. Use conda (anaconda) (latest)
 3. Python (latest)
-4. Install numpy, matplotlib, seaborn and pandas using pip from your CMD 
-5. If you want GPU support(much recommended) you will have to do additional installations listed below. if not skip to step 12
-6. You will need to download the latest verions of CUDA, cudNN, Visual Studio*, zlib 
-7. Each install will take a considerable time. althought the tensorflow websitres has certain limitations to what versions to use
+4. Install numpy, matplotlib, seaborn and pandas using pip from your CMD
+5.  You might also need to install keras.vis, opencv, tf-explain using the pip commands. You can do this after you have succesfully set up TensorFlow.
+6. If you want GPU support(much recommended) you will have to do additional installations listed below. if not skip to step 12
+7. You will need to download the latest verions of CUDA, cudNN, Visual Studio*, zlib 
+8. Each install will take a considerable time. althought the tensorflow websitres has certain limitations to what versions to use
 I downloaded the latest verisons of everything listed, surprisingly it all worked for me so yay
 The download links for each are available on the tensorflow website. The link to zlib will be in the 
 * I installed Visual Studio 2021, when tensorflow recommend to install only the 2019 version. I am still able to run everything so I guess it was not needed after all
