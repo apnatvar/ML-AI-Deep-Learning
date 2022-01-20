@@ -1,0 +1,19 @@
+Hello there!
+
+There are codes from the book Practical Deep Learning - https://www.practicaldeeplearning.ai/
+The codes are divided chapter wise. 
+
+I am aware that the authors have been kind enough to provide us with all the code mentioned in the book.
+As i work through it, I have realised some of the code is actually missing/deprecated.
+Also, the provided code is available in the format for Jupyter Notebooks.
+This is very convienient for learning to code with tthe book. You can go through it way faster than I have.
+
+I prefer working on my own environment and working with scripts. This provides me a more hand-son experience. There are obviously
+way more errors, and issues that I had to spend hours fixing. I was finally able to work out and I have the codes available 
+in the form of Python Scripts that you can download and use directly. The only issue that might arise is that you do not have the 
+relevant modules downloaded or updated to the same version as I used them. You might also need to install the relevant datasets from various 
+websites as is recommened in the book. 
+
+If you want more info please feel free to reach out on my email arawat@tcd.ie or find the LinkedIn link in my main repository. 
+
+Hopefully these codes help you out and you can save valuable time while you learn. 
