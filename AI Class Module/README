@@ -1,0 +1,14 @@
+Hi there again!
+
+These are the assignments I completed for my Artificial Intelligence module at Thapar Institue of Information and technology.
+Each of the folders here will have a pdf which has the relevant assignment questions and appropriately named python scripts.
+
+Assignment 1 consisted of general python scripts just to gain familiarity with the language. The actual scripts start from Assignment 2.
+
+Assignment 1 ProLog was written in ProLog. I probably had more assignments which I forgot to write to my external hard drive.
+
+The assignments mainly consist of solving various problems like 8-Puzzle Problem, Water-Jug Problem using various algorithms such as BFS, DFS, iterative DFS, A*, UCS, HCS.
+These were the best solutions that I could come up when I undertook the course. 
+I reviewd them before uploaded, since the codes were written in Python 2.7, I had to update them for Python 3.7.9.
+The coding style remains the same except for a few changes which came in the NumPy distribution, I had to adjust a few lines so that the code could run succesfully.
+
